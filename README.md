@@ -1,30 +1,32 @@
+# Hey, I'm Ravinder Negi
 
+**Full Stack Developer** at **Techdome** — building and scaling web applications with React, Node.js, and TypeScript. I enjoy architecting robust backend systems, designing for scale, and shipping products that feel polished.
 
-
-
-<h1>Hi 👋</h1>
-
-
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Currently working on [Lane](https://github.com/rnegi05982/lane), a multi-tenant project management platform with real-time collaboration, AI features, and enterprise-grade auth.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,c,bash,vim,vercel,express,firebase,git,github,heroku,java,linux,mongodb,mysql,nodejs,ts,vscode&perline=11">
-</p>
+### Tech Stack
 
+| Category | Technologies |
+|----------|-------------|
+| Frontend | React, TypeScript, Tailwind CSS, TanStack Query, Zustand |
+| Backend  | Node.js, Express, REST APIs, WebSockets/SSE, BullMQ |
+| Database | PostgreSQL, Prisma ORM, MongoDB, Redis |
+| Infra    | Docker, Linux, Cloudflare, Nginx |
+| Tools    | Git, GitHub Actions, CI/CD |
 
 ---
 
-### :fire: My Stats :
+### GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnegi05982&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rnegi05982&theme=dark&background=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnegi05982&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rnegi05982&theme=github-compact)
 
+---
 
+### Connect
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravinder-n-89a480167/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnegi05982)
