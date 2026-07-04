@@ -1,6 +1,6 @@
 # Hey, I'm Ravinder Negi
 
-**Full Stack Developer** at **Techdome** — building and scaling web applications with React, Node.js, and TypeScript. I enjoy architecting robust backend systems, designing for scale, and shipping products that feel polished.
+**Full Stack Developer**  — building and scaling web applications with React, Node.js, and TypeScript. I enjoy architecting robust backend systems, designing for scale, and shipping products that feel polished.
 
 Currently working on [Lane](https://github.com/rnegi05982/lane), a multi-tenant project management platform with real-time collaboration, AI features, and enterprise-grade auth.
 
